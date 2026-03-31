@@ -1,0 +1,8 @@
+padroesestruturais\bridge\CanalEnvio.class
+padroesestruturais\bridge\Email.class
+padroesestruturais\bridge\Notificacao.class
+padroesestruturais\bridge\NotificacaoUrgente.class
+padroesestruturais\bridge\Sms.class
+padroesestruturais\bridge\WhatsApp.class
+padroesestruturais\bridge\Main.class
+padroesestruturais\bridge\NotificacaoSimples.class
